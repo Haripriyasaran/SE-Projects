@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main()
-{
-    // Declare variables
-    int num1,num2,sum;
+
 
     
 
